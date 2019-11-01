@@ -54,10 +54,16 @@
 		{
 			alert("4526:\"你们都是一群渣渣，连一次IOI都AK不了。走了，不陪你们这些渣渣了\"");
 		}if(counter==200){
-            		alert("4526:\"怎么还在膜，我还要AK第4527次ioi呢\"");
+            		alert("4526:\"怎么还在膜，我还要AK第200次ioi呢\"");
 		}
-        	if(counter==233){
-			alert("4526:\"都膜了这么多次，我就勉为其难的女装吧\"");
+        	if(counter%23==3){
+                var out = "qw";
+                var i = counter%45;
+                while(i>0){
+                    out = out+out;
+                    i=i-1;
+                }
+                alert(out);
         	}
 		}
 	
@@ -65,5 +71,5 @@
     </header>
     <p>
 	</p>
-
+    <h3><a href="https://github.com/WN373/4526_AKIOI" target="_blank">Github</a></h3>
 </body></html>
