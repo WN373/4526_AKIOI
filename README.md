@@ -14,5 +14,5 @@
 python -m http.server #python3
 ```
 
-来在内网公～～开处刑～～示
+来在内网公~~开处刑~~示
 
