@@ -1,6 +1,6 @@
 # 4526_AKIOI
 
-这是一个关于 [4526](https://www.luogu.org/space/show?uid=138812) AK IOI 的项目
+这是一个关于 [4526](https://www.luogu.com.cn/user/138812) AK IOI 的项目
 
 改造自 [AHAKIOI](https://github.com/tb5jbwk3/AHAKIOI)
 
